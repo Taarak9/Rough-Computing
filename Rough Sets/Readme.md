@@ -42,13 +42,13 @@ Write functions for the following. Some of the functions work with a given infor
 
  
 
-10.  To develop a boolean flag vector corresponding to elements of a given partition P,
+10.     To develop a boolean flag vector corresponding to elements of a given partition P,
 
 (a)  is A  a super set of element of P 
 
 (b) is A has non-trivial intersection with the element of P.
 
-11.  To obtain the union of elements of the given partition P for which the flags are one (true) based on  
+11.      To obtain the union of elements of the given partition P for which the flags are one (true) based on  
 
 (a) super set flags 
 
