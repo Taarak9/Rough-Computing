@@ -56,22 +56,12 @@ Write functions for the following. Some of the functions work with a given infor
 
 The resultant sets will be referred as Lower Approximation of A and Upper Approximation of A respectively with respective to the partition P.
 
+12.      Develop an algorithm  which returns Lower and Upper Approximations of given set A with respective to given Partition P.  Name this function as f_LUSA(A,P)  let us denote the return values of the algorithm as LSA and USA
  
+13.      To obtain the set difference of USA and LSA.   Say this resultant set as Boundary set  of A denoted as BNA.
 
-12.  Develop an algorithm  which returns Lower and Upper Approximations of given set A with respective to given Partition P.  Name this function as f_LUSA(A,P)  let us denote the return values of the algorithm as LSA and USA
+14.      To obtain the complement set of USA.   Say this resultant set as Negative set  of A denoted as NGA.
 
- 
+15.      Develop an algorithm to get the Cardinality of sets A, U, LSA, USA,  BNA and NGA with respective to a Partition P obtained from  an attribute of given Information System or Decision System.  Say the output of this algorithm as n_A, N_U, n_LSA, n_USA, n_BNA and n_NGA  respectively.
 
-13.  To obtain the set difference of USA and LSA.   Say this resultant set as Boundary set  of A denoted as BNA.
-
- 
-
-14.  To obtain the complement set of USA.   Say this resultant set as Negative set  of A denoted as NGA.
-
- 
-
-15.  Develop an algorithm to get the Cardinality of sets A, U, LSA, USA,  BNA and NGA with respective to a Partition P obtained from  an attribute of given Information System or Decision System.  Say the output of this algorithm as n_A, N_U, n_LSA, n_USA, n_BNA and n_NGA  respectively.
-
- 
-
-16.   To verify that LSA, BNA and NGA of given set A with respect to a given  Partition P is a partition of U, the Universal set.
+16.      To verify that LSA, BNA and NGA of given set A with respect to a given  Partition P is a partition of U, the Universal set.
