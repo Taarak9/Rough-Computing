@@ -7,6 +7,6 @@ Write functions for the following. Some of the functions work with a given infor
 6.      Let IND(B1) and IND(B2) be two Indiscernibility relations where B1, B2 are subsets of A
 a.      To demonstrate “INDDS(B1) and INDDS(B2)”,  is also an Indiscernibility relation equivalent to INDDS(Union(B1 , B2)).
 b.      To demonstrate U/INDDS(Union(B1 , B2))  is refrainment of U/INDDS(B1) and U/INDDS(B2)
-7.      To demonstrate U/INDDS(Union(A,{d})) is refinement of all possible partitions induced by Indiscernibility relations of a given Decision System DS:<U, Union(A,{d})> .
+7.      To demonstrate U/INDDS(Union(A,{d})) is refinement of all possible partitions induced by Indiscernibility relations of a given Decision System DS:<U, Union(A,{d})>. 
  
 Note:  A relation  R  induced by a subset B of AÈ{d} over U is  an Indiscernibility relation.  Say R=IND(B).
