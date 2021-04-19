@@ -16,7 +16,7 @@
    * Feature Selection
      - Dispensable, Indispensable attributes; Reduct and Core definition and properties
      - Reduct and Core Computation in Information/Decision Systems 
-      - Matrix Simplification Method ( Minimum discernibility matrix, attribute deletion, matrix absorption )
+         Matrix Simplification Method ( Minimum discernibility matrix, attribute deletion, matrix absorption )
 
 
 
